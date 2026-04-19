@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+authors:
+  - family-names: Khan
+    given-names: Newaz Ibrahim
+    orcid: ""
+title: "Multi-Sensor Fusion of Landsat and Sentinel-1 SAR for Spatiotemporal
+        Land Use/Land Cover Change Mapping and Land Surface Temperature
+        Projection in Dhaka, Bangladesh (2015-2035)"
+version: 1.0.0
+date-released: 2026-04-19
+url: "https://github.com/newazkhn/LULC-and-LST-prediction"
+license: MIT
+repository-code: "https://github.com/newazkhn/LULC-and-LST-prediction"
+keywords:
+  - land use land cover change
+  - land surface temperature
+  - urban heat island
+  - SAR optical fusion
+  - Sentinel-1
+  - Landsat
+  - Gradient Boosted Trees
+  - Random Forest
+  - Google Earth Engine
+  - Dhaka
+  - Bangladesh
+  - remote sensing
+abstract: "Google Earth Engine script for spatiotemporal LULC change mapping
+           and Land Surface Temperature projection in Dhaka, Bangladesh
+           (2015-2025-2035) using Landsat 8/9 optical and thermal imagery
+           fused with Sentinel-1 C-band SAR data. Implements Random Forest
+           LULC classification with ablation study, Gradient Boosted Trees
+           LST regression with emissivity and GHSL density predictors,
+           transition RF model for 2035 LULC projection, and spatial holdout
+           validation."
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Khan
+      given-names: Newaz Ibrahim
+  title: "Multi-Sensor Fusion of Landsat and Sentinel-1 SAR for Spatiotemporal
+          Land Use/Land Cover Change Mapping and Land Surface Temperature
+          Projection in Dhaka Industrial Area"
+  journal: "Geocarto International"
+  year: 2026
+  doi: ""
